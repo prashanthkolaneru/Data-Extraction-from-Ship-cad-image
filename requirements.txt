@@ -1,0 +1,5 @@
+opencv
+numpy
+imutils
+paddleocr>=2.0.1
+paddlepaddle
